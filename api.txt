@@ -2,3 +2,5 @@
 https://api.openweathermap.org/data/2.5/weather?lat={lat}&lon={lon}&appid={API key}
 
 TitleWrapper_titleWrapper__7S_PA Common_standardCardTitle__Xodz6 Common_standardCardTitleDefault__rkwjy TitleWrapper_colorDefault__Vvm_G
+
+r"[a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+\.[a-zA-Z0-9-.]+"
